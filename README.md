@@ -36,7 +36,7 @@ Das *Hiragana & Katakana* Deck übt die Lesung der beiden Silbenschriften der ja
 Das **にほんご90日** Deck übt alle Inhalte des gleichnamigen Buches.
 Dieses Deck enhält zusätzlich noch Lektionen 31 - 45 aus den Buch **にほんご90日 2**.
 
-* Karten: 2075 (Vokabel: 1045, Übersetzungübungen: 464, Grammatik: 566)
+* Karten: 2075 (Grammatik: 566, Übersetzungübungen: 464, Vokabel: 1045)
 * Download: [Mega Link](https://mega.nz/file/kO8S2S4B#uCvutwofB4diuRac1rlD4NjqKqF4XVIypQZTlncvuuI)
 
 ![image](https://user-images.githubusercontent.com/24553082/216670353-954ba3e2-e73f-4c77-aa24-fcb0c9658ecb.png)
