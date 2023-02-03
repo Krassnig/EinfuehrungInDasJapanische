@@ -5,10 +5,11 @@ Dieser läuft über ein Jahr hinweg und hat einen Aufwand von 15 ETCS.
 
 ## Beschreibung der Lehrveranstalltung
 
-> Diese Lehrveranstaltung bezweckt, Studierenden, die weder Japanologie noch Übersetzen Japanisch studieren, Gelegenheit zu geben, Japanisch so weit zu
-> erlernen, dass es ihnen möglich ist, japanische Texte für ihr Studium bzw. in ihrem Berufsleben zu lesen und sich auch mündlich in japanischer Sprache zu 
-> verständigen.
-> Der Unterricht umfasst eine ausführliche Erklärung der Grammatik des Japanischen sowie Konversations- und Übersetzungsübungen anhand des Lehrbuches 90 Days of > Japanese Language, UNICOM.
+> Diese Lehrveranstaltung bezweckt, Studierenden, die weder Japanologie noch Übersetzen Japanisch studieren,
+> Gelegenheit zu geben, Japanisch so weit zu erlernen, dass es ihnen möglich ist, japanische Texte für ihr
+> Studium bzw. in ihrem Berufsleben zu lesen und sich auch mündlich in japanischer Sprache zu verständigen.
+> Der Unterricht umfasst eine ausführliche Erklärung der Grammatik des Japanischen sowie Konversations- und
+> Übersetzungsübungen anhand des Lehrbuches 90 Days of Japanese Language, UNICOM.
 >
 > -- <cite>https://ufind.univie.ac.at/de/course.html?lv=150003&semester=2022W</cite>
 
