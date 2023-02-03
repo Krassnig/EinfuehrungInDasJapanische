@@ -1,6 +1,6 @@
 # Einfuehrung in das Japanische
 
-Einführung in das Japanische ist ein japanisch Kurs der Uni Wien.
+Einführung in das Japanische ist ein Japanischkurs der Universität Wien.
 Dieser läuft über ein Jahr hinweg und hat einen Aufwand von 15 ETCS.
 
 ## Beschreibung der Lehrveranstalltung
