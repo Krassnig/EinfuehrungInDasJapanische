@@ -28,7 +28,7 @@ Die Lehrveranstalltung wird in 4 Teile geteilt:
 Das *Hiragana & Katakana* Deck übt die Lesung der beiden Silbenschriften der japanischen Sprache Japanisch.
 
 * Karten: 214
-* Download: [Mega Link](https://mega.nz/file/YXsjzbIZ#4KNrppSSsmCiv3ePwXos3zeQr-XrKuXE3xIFX6N1scA)
+* Download: [Mega Link](https://mega.nz/file/9eszCDZT#US2ySSaafHHj1Z7v227ak5zbnTU2xOKwfxpdWexY-G8)
 
 ![image](https://user-images.githubusercontent.com/24553082/216669967-9178245a-4330-49e6-af30-586a05432320.png)
 
@@ -38,7 +38,7 @@ Das **にほんご90日** Deck übt alle Inhalte des gleichnamigen Buches.
 Dieses Deck enhält zusätzlich noch Lektionen 31 - 45 aus den Buch **にほんご90日 2**.
 
 * Karten: 2075 (Grammatik: 566, Übersetzungübungen: 464, Vokabel: 1045)
-* Download: [Mega Link](https://mega.nz/file/kO8S2S4B#uCvutwofB4diuRac1rlD4NjqKqF4XVIypQZTlncvuuI)
+* Download: [Mega Link](https://mega.nz/file/RO1EzRzS#m7U_whR9bOG_v6aHpG3V_d1cn2lrG3rJUCDfcif6q38)
 
 ![image](https://user-images.githubusercontent.com/24553082/216670353-954ba3e2-e73f-4c77-aa24-fcb0c9658ecb.png)
 
@@ -48,6 +48,6 @@ Das *Einführung in das Japanische Kanji* Deck übt alle Kanji die ab *Einführu
 Dafür gibt es für jeweils die *Kunyomi* und *Onyomi* Lesung und deren Bedeutung eigene Karten.
 
 * Karten: 976
-* Download: [Mega Link](https://mega.nz/file/BXNHhYrQ#giyNrHH7D76GIxDLfzHYZjMV5SHaFc0AiitI4eu2U0E)
+* Download: [Mega Link](https://mega.nz/file/8XMABbRT#d_pDSP4hVh36fSWZ_l70WQWzXQTq6J8RtHrIF0zahjg)
 
 ![image](https://user-images.githubusercontent.com/24553082/216670454-0cbaea7f-cd7f-441a-8390-a9bb625a2b3e.png)
